@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Samarkan Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Samarkan Normal'), url('../assets/fonts/SAMARN__.woff') format('woff');
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	color: white;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
